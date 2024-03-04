@@ -8,7 +8,7 @@ This is a stock management system backend application built with Node.js, Expres
 
 ## Deployed App
 
-- Backend - 
+- Backend - https://redis-u6ql.onrender.com/
 
 ## Installation
 
